@@ -1,4 +1,4 @@
-# My resume 2019
+# My Resume 2019
 
 ### Requirements
 * React
@@ -46,4 +46,4 @@ In the project directory, you can run:
 │           Studies.js
 │           Studies.json
 └───img
-        background.png```
+        background.png
