@@ -75,10 +75,10 @@ export default class CarouselPortfolio extends Component {
             
               <p className="text-center txt-grey mb-0">
               {item.link !== '' ?
-                <a href={item.link}><i className="fas fa-desktop m-2 fa-lg"></i></a>
+                <a href={item.link} target='_blank' rel="noopener noreferrer"><i className="fas fa-desktop m-2 fa-lg"></i></a>
               :null}
               {item.github !== '' ?
-                <a href={item.github}><i className="fab fa-github m-2 fa-lg"></i></a>
+                <a href={item.github} target='_blank' rel="noopener noreferrer"><i className="fab fa-github m-2 fa-lg"></i></a>
               :null}
               </p>
             

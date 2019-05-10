@@ -17,8 +17,8 @@ export default class Contact extends Component {
             <h5 className="font-weight-bold txt-green">E-mail</h5>
             <a className="txt-white text-center mb-4" href="mailto:walter.schroeder@gmail.com">walter.schroeder@gmail.com</a>
             <span>
-              <a href="https://github.com/wschroederga"><i className="fab fa-github m-3 fa-2x"></i></a>
-              <a href="https://www.linkedin.com/in/walter-demian-schroeder/"><i className="fab fa-linkedin m-3 fa-2x"></i></a>
+              <a href="https://github.com/wschroederga" target='_blank' rel="noopener noreferrer"><i className="fab fa-github m-3 fa-2x"></i></a>
+              <a href="https://www.linkedin.com/in/walter-demian-schroeder/" target='_blank' rel="noopener noreferrer"><i className="fab fa-linkedin m-3 fa-2x"></i></a>
             </span>
           </div>
           <div className="container-interest">

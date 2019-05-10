@@ -24,7 +24,7 @@ export default class Experience extends Component {
               {experiences.map((para, index) => (
               <div key={index} className="date-box text-center">
                 <span className="font-weight-bold text-light">{para.date}</span>
-                <h5 className="text-uppercase font-weight-bold txt-green mb-0">{para.company}</h5>
+                <h5 className="font-weight-bold txt-green mb-0">{para.company}</h5>
                 <span className="font-weight-bold txt-grey">{para.project}</span><br/>
                 <span className="font-weight-bold txt-grey">{para.position}</span>
                 </div>
