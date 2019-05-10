@@ -1,0 +1,32 @@
+[
+    {
+        "date": "Oct 2018 - Actualidad",
+        "company": "gA",
+        "project": "AMS Digital",
+        "position": "Arquitecto, Lider Fullstack, Data Science"
+    },
+    {
+        "date": "Jul 2018 - Actualidad",
+        "company": "gA",
+        "project": "Back to Fun",
+        "position": "Lider Fullstack"
+    },
+    {
+        "date": "Abr 2015 - Jul 2018",
+        "company": "DSI",
+        "project": "Equipo de Infraestructura",
+        "position": "Infrastructure Consultant"
+    },
+    {
+        "date": "Ene 2013 - Abr 2015",
+        "company": "JOHNSON & JOHNSON CONSUMER",
+        "project": "Migracions ECC 6.0",
+        "position": "Consultor SAP"
+    },
+    {
+        "date": "Mar 2007 - Ene 2013",
+        "company": "JOHNSON & JOHNSON MEDICAL",
+        "project": "Mejoras Latinoamerica",
+        "position": "JDE E1 Lider de Proyectos"
+    }
+]

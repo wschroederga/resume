@@ -1,0 +1,32 @@
+[
+    {
+      "date": "2017",
+      "diplome": "Android Fundamentals",
+      "place": "Pluralsight"
+    },
+    {
+      "date": "2016",
+      "diplome": "DSI Platform Development & Administration",
+      "place": "DSI"
+    },
+    {
+      "date": "2015",
+      "diplome": "Scrum Fundamental & Master certified",
+      "place": "ScrumAlliance"
+    },
+    {
+      "date": "2010",
+      "diplome": "JDE E1 Implementation Champion Skills Assesment",
+      "place": "Oracle University"
+    },     
+    {
+      "date": "2005 - Incompleto",
+      "diplome": "Ingeriaría en Sistemas de Información",
+      "place": "UTN"
+    },
+    {
+      "date": "1998 - 2004",
+      "diplome": "Técnico electromecánico y Electrónico",
+      "place": "Escuela PHILIPS"
+    }
+  ]

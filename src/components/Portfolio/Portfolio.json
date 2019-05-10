@@ -1,0 +1,42 @@
+[
+    {
+      "video": "",
+      "src": "/assets/img/amsdigital.png",
+      "altText": "ams-digital",
+      "title": "AMS Digital",
+      "description": "Aplicación web enfocada en aumentar la productividad de los consultores de AMS con recomendaciones, chatbot, tableros de control y busqueda inteligente",
+      "tools": ["React", "Go", "Python", "Docker", "Nginx", "Gunicorn", "Dremio", "Superset", "Process Gold", "Redshift", "SQL Server"],
+      "link": "https://ams.grupoassa.com",
+      "github": ""
+    },
+    {
+      "video": "",
+      "src": "/assets/img/btf.png",
+      "altText": "back-to-fun",
+      "title": "Back to Fun",
+      "description": "Aplicación web para ingresantes para el seguimiento de tareas y la motivación utilizando herramientas de gamification",
+      "tools": ["React", "Go", "Docker", "Nginx", "Superset", "SQL Server"],
+      "link": "https://btf.grupoassa.com",
+      "github": ""
+    },
+    {
+        "video": "",
+        "src": "/assets/img/data-science.png",
+        "altText": "data-science",
+        "title": "Data Science",
+        "description": "Diversas soluciones de Data Science para demostrar su potencial a clientes",
+        "tools": ["Python", "PyTorch"],
+        "link": "",
+        "github": "https://github.com/wschroederga/data-science"
+    },    
+    {
+        "video": "/assets/img/chatbot.mp4",
+        "src": "",
+        "altText": "chatbot",
+        "title": "Chatbot",
+        "description": "Asistente virtual tanto para consultores como usuario en diversas tareas y con multiples integraciones",
+        "tools": ["Dialogflow", "Go", "JDE", "LDAP", "SQL Server", "Jira", "Servicenow"],
+        "link": "",
+        "github": "https://github.com/wschroederga/dialogflow-go-client"
+    }
+  ]
