@@ -94,6 +94,16 @@ export default class Skills extends Component {
               </div>
 
               <div className="logo-skill flex-center">
+                  <img className="logo-image" src={process.env.PUBLIC_URL+'/assets/img/jenkins_logo.svg'} alt="jenkins"/>
+                  <div className="text-icon font-weight-bold">JENKINS</div>
+              </div>
+
+              <div className="logo-skill flex-center">
+                  <img className="logo-image" src={process.env.PUBLIC_URL+'/assets/img/sonarqube_logo.svg'} alt="sonarqube"/>
+                  <div className="text-icon font-weight-bold">SONARQUBE</div>
+              </div>                  
+
+              <div className="logo-skill flex-center">
                   <i className="fa fa-sync-alt icon"></i>
                   <div className="text-icon font-weight-bold">METODOLOGIAS AGILES</div>
               </div>
