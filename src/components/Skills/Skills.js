@@ -11,7 +11,7 @@ export default class Skills extends Component {
                 <img className="cercle-anim" src={process.env.PUBLIC_URL+'/assets/img/picto_cercle.svg'} alt="cercle"/>
                 <img className="picto" src={process.env.PUBLIC_URL+'/assets/img/picto_comp.svg'} alt="cercle"/>
               </div>
-              <h4 className="font-weight-bold mt-2">Competencias</h4>
+              <h4 className="font-weight-bold mt-2">Skills</h4>
             </div>
           </ScrollableAnchor>
 

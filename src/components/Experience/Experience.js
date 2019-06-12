@@ -15,7 +15,7 @@ export default class Experience extends Component {
                 <img className="cercle-anim"src={process.env.PUBLIC_URL+'/assets/img/picto_cercle.svg'} alt="cercle"/>
                 <img className="picto" src={process.env.PUBLIC_URL+'/assets/img/picto_exp.svg'} alt="experiences"/>
               </div>
-              <h4 className="font-weight-bold mt-2">Experiencia</h4>
+              <h4 className="font-weight-bold mt-2">Experience</h4>
             </div>
           </ScrollableAnchor>
 

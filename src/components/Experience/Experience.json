@@ -1,32 +1,32 @@
 [
     {
-        "date": "Oct 2018 - Actualidad",
+        "date": "Oct 2018 - Current",
         "company": "gA",
         "project": "AMS Digital",
-        "position": "Arquitecto, Lider Fullstack, Data Science"
+        "position": "Arquitect, Fullstack Lead, Data Science"
     },
     {
-        "date": "Jul 2018 - Actualidad",
+        "date": "Jul 2018 - Current",
         "company": "gA",
         "project": "Back to Fun",
-        "position": "Lider Fullstack"
+        "position": "Fullstack Lead"
     },
     {
-        "date": "Abr 2015 - Jul 2018",
+        "date": "Apr 2015 - Jul 2018",
         "company": "DSI",
-        "project": "Equipo de Infraestructura",
+        "project": "Infrastructure Team",
         "position": "Infrastructure Consultant"
     },
     {
-        "date": "Ene 2013 - Abr 2015",
+        "date": "Jan 2013 - Apr 2015",
         "company": "Johnson & Johnson Consumer",
-        "project": "Migracions ECC 6.0",
-        "position": "Consultor SAP"
+        "project": "Migrations to ECC 6.0",
+        "position": "SAP Consultant"
     },
     {
-        "date": "Mar 2007 - Ene 2013",
+        "date": "Mar 2007 - Jan 2013",
         "company": "Johnson & Johnson Medical",
-        "project": "Mejoras Latinoamerica",
-        "position": "JDE E1 Lider de Proyectos"
+        "project": "Latinoamerica enhacements",
+        "position": "JDE E1 Proyect Lead"
     }
 ]
