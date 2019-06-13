@@ -105,12 +105,12 @@ export default class Skills extends Component {
 
               <div className="logo-skill flex-center">
                   <i className="fa fa-sync-alt icon"></i>
-                  <div className="text-icon font-weight-bold">METODOLOGIAS AGILES</div>
+                  <div className="text-icon font-weight-bold">AGILE METHODOLOGIES</div>
               </div>
 
               <div className="logo-skill flex-center">
                   <i className="fas fa-project-diagram icon"></i>
-                  <div className="text-icon font-weight-bold">PROCESOS DE NEGOCIO</div>
+                  <div className="text-icon font-weight-bold">BUSINESS PROCESSES</div>
               </div>              
 
             </div>
