@@ -24,7 +24,7 @@
         "src": "/assets/img/data-science.png",
         "altText": "data-science",
         "title": "Data Science",
-        "description": "Various Data Science solutions to demonstrate their potential to clients",
+        "description": "Multiple Data Science solutions to demonstrate the potential to the clients",
         "tools": ["Python", "PyTorch"],
         "link": "",
         "github": "https://github.com/wschroederga/data-science"
@@ -34,7 +34,7 @@
         "src": "",
         "altText": "chatbot",
         "title": "Chatbot",
-        "description": "Virtual assistant for consultants and user in multiple tasks and with multiple integrations",
+        "description": "Virtual assistant for consultants and users in multiple tasks and with multiple integrations",
         "tools": ["Dialogflow", "Go", "JDE", "LDAP", "SQL Server", "Jira", "Servicenow"],
         "link": "",
         "github": "https://github.com/wschroederga/dialogflow-go-client"
