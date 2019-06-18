@@ -4,7 +4,7 @@
       "src": "/assets/img/amsdigital.png",
       "altText": "ams-digital",
       "title": "AMS Digital",
-      "description": "Web application focused on increasing the productivity of AMS consultants with recommendations, chatbot, dashboards and intelligent search",
+      "description": "Increase the productivity of AMS consultants with recommendations, chatbot, dashboards and intelligent search",
       "tools": ["React", "Go", "Python", "Docker", "Nginx", "Gunicorn", "Dremio", "Superset", "Process Gold", "SQL Server"],
       "link": "https://ams.grupoassa.com",
       "github": ""
@@ -14,7 +14,7 @@
       "src": "/assets/img/btf.png",
       "altText": "back-to-fun",
       "title": "Back to Fun",
-      "description": "Web application for new for employees for task tracking and motivation using gamification tools",
+      "description": "Employees tasks tracking and motivation using gamification tools",
       "tools": ["React", "Go", "Docker", "Nginx", "Superset", "SQL Server"],
       "link": "https://btf.grupoassa.com",
       "github": ""

@@ -27,7 +27,14 @@ export default class Experience extends Component {
                 <h5 className="font-weight-bold txt-green mb-0">{para.company}</h5>
                 <span className="font-weight-bold txt-grey">{para.project}</span><br/>
                 <span className="font-weight-bold txt-grey">{para.position}</span>
-                </div>
+                <span className="font-weight-bold txt-grey">
+                  <p className="tools">{para.tools.map((tool, index) =>{
+                    return (
+                      <span className ="badge badge-secondary m-1 bg-green txt-dark-grey" key={index}>{tool}</span>
+                    )
+                  })}</p> 
+                </span>               
+              </div>
               )
               )}
             </div>

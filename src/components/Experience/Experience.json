@@ -2,31 +2,36 @@
     {
         "date": "Oct 2018 - Current",
         "company": "gA",
-        "project": "AMS Digital",
-        "position": "Arquitect, Fullstack Lead, Data Science"
+        "project": "Digital AMS", 
+        "position": "Arquitect, Fullstack Lead, Data Science",
+        "tools": ["React", "Go", "Python", "Docker", "Nginx", "Gunicorn", "Dremio", "Superset", "Process Gold", "SQL Server","Jenkins","Sonarqube"]
     },
     {
         "date": "Jul 2018 - Current",
         "company": "gA",
         "project": "Back to Fun",
-        "position": "Fullstack Lead"
+        "position": "Arquitect, Fullstack Lead",
+        "tools": ["React", "Go", "Docker", "Nginx", "Superset", "SQL Server","Jenkins","Sonarqube"]
     },
     {
         "date": "Apr 2015 - Jul 2018",
-        "company": "DSI",
-        "project": "Infrastructure Team",
-        "position": "Infrastructure Consultant"
+        "company": "gA",
+        "project": "DSI Infrastructure Team",
+        "position": "Infrastructure Consultant",
+        "tools": ["DSI", "Windows server", "SQL Server", "Oracle Database"]
     },
     {
         "date": "Jan 2013 - Apr 2015",
-        "company": "Johnson & Johnson Consumer",
-        "project": "Migrations to ECC 6.0",
-        "position": "SAP Consultant"
+        "company": "gA",
+        "project": "Johnson & Johnson Consumer - Migrations to ECC 6.0",
+        "position": "SAP Consultant",
+        "tools": ["ECC 6.0"]
     },
     {
         "date": "Mar 2007 - Jan 2013",
-        "company": "Johnson & Johnson Medical",
-        "project": "Latinoamerica enhacements",
-        "position": "JDE E1 Proyect Lead"
+        "company": "gA",
+        "project": "Johnson & Johnson Medical - Latinoamerica enhacements",
+        "position": "JDE E1 Proyect Lead",
+        "tools": ["E1 Xe to 9.1", "Oracle Database"]
     }
 ]
